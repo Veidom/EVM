@@ -1,0 +1,1 @@
+To get an answer type in solve(X), X = [couple(ivan,_),couple(petr,_),couple(andrew,_),couple(vasily,_)].
